@@ -1,5 +1,4 @@
 ## Sonarqube/PostgreSQL in Apple M1 Chip
----
 
 ### ⚡️ Quickstart
 
